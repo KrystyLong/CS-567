@@ -1,0 +1,8 @@
+---
+title: "Assignment 1"
+author: "Krystyna"
+date: "February 1, 2019"
+output: html_document
+---
+##Something Simple
+Yes this is a very good simple thing!
